@@ -27,5 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haqhere&" alt="haqhere" /></p>
 
-<img src="https://raw.githubusercontent.com/anasmalikp/anasmalikp/main/footer.svg" />
+
 
